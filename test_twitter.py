@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-usernameStr = '8951247621'
-passwordStr = 'a1b9h9i7'
+usernameStr = 'username'
+passwordStr = 'password'
 
 
 driver = webdriver.Chrome()

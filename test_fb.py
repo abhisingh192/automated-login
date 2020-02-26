@@ -1,8 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-usr = "8951247621"
-pwd = "a1b9h9i7"
+usr = "username"
+pwd = "password"
 
 driver = webdriver.Chrome()
 # or you can use Chrome(executable_path="/usr/bin/chromedriver")
